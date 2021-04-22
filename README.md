@@ -1,4 +1,6 @@
-### Hi there 👋
+## Oskar Størmer
+### Elite athlete and M.Sc. Student at Norwegian University of Science and Technology
+### 🧠🤖 Specialization in AI
 
 <!--
 **ostormer/ostormer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
